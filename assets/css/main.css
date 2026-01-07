@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* assets/css/main.css */
+body {
+  @apply bg-gray-50 text-gray-900;
+}
+
+/* If you want to force it even in dark mode */
+.dark body {
+    @apply bg-gray-50 text-gray-900;
+}
+
+iconify-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}

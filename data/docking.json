@@ -1,0 +1,28 @@
+[
+  {
+    "id_docking": 1,
+    "ship_id": 1,
+    "description": "Repainting deck",
+    "planned_start_date": "05/01/2020",
+    "planned_end_date": "07/01/2020",
+    "actual_start_date": "05/01/2020",
+    "actual_end_date": "06/01/2020",
+    "budget": "300000",
+    "currency": "USD",
+    "total_cost_estimated": "50000",
+    "status": "0"
+  },
+  {
+    "id_docking": 2,
+    "ship_id": 2,
+    "description": "Yearly Maintenance",
+    "planned_start_date": "08/01/2020",
+    "planned_end_date": "07/02/2020",
+    "actual_start_date": "09/01/2020",
+    "actual_end_date": "10/02/2020",
+    "budget": "100000",
+    "currency": "USD",
+    "total_cost_estimated": "93000",
+    "status": "1"
+  }
+]

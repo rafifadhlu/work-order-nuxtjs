@@ -1,0 +1,12 @@
+[
+  {
+    "id_job": 1,
+    "id_docking": 1,
+    "ship_id": 1,
+    "job_name": "Repainting deck",
+    "job_code": "ABC/1",
+    "estimated_hour": 40,
+    "job_category": "maintenance",
+    "work_description": "Repainting with green color"
+  }
+]

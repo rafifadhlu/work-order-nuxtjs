@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "ship_name": "Atlantic Star",
+    "regist_number": "DEC1991/AA1",
+    "account_code": "ABC-1",
+    "company": "Titanic Pvt. Ltd",
+    "description": "Repainting deck",
+    "responsible_rank": "Jamal/C"
+  },
+  {
+    "id":2,
+    "ship_name": "Pacific Borneo",
+    "regist_number": "FEB2021/AAB",
+    "account_code": "ABC-2",
+    "company": "Titanic Pvt. Ltd",
+    "description": "Yearly Maintenance",
+    "responsible_rank": "Kartimin/CE"
+  }
+]

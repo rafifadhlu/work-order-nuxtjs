@@ -1,0 +1,30 @@
+[
+  {
+    "id_checklist": 1,
+    "id_audit": 1,
+    "id_job": 1,
+    "question": "Prepare all chemical paint",
+    "isDone": true
+  },
+  {
+    "id_checklist": 2,
+    "id_audit": 1,
+    "id_job": 1,
+    "question": "Prepare all man power",
+    "isDone": true
+  },
+  {
+    "id_checklist": 3,
+    "id_audit": 1,
+    "id_job": 1,
+    "question": "Finish half of deck",
+    "isDone": false
+  },
+  {
+    "id_checklist": 4,
+    "id_audit": 1,
+    "id_job": 1,
+    "question": "Finish full of deck",
+    "isDone": false
+  }
+]
