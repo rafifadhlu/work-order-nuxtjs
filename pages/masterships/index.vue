@@ -19,7 +19,8 @@
             <h1 class="font-semibold pl-2 text-lg">
               New coming
             </h1>
-            <NuxtLink to="/masterships">
+            
+            <NuxtLink to="/masterships/add">
               <div class="wrapped flex flex-row">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                   stroke="currentColor" class="size-6">
@@ -28,6 +29,7 @@
                 <p>Add ship</p>
               </div>
             </NuxtLink>
+
           </div>
 
         </div>

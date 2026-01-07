@@ -4,5 +4,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   serverDir: "./server",
   modules: ['@nuxt/ui'],
-  css: ['~/assets/css/main.css']
+  css: ['~/assets/css/main.css'],
+  colorMode: { preference: 'light' }
 })

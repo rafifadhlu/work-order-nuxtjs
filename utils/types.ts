@@ -13,6 +13,8 @@ export enum finishStatusType{
   false,
 }
 
+export type ShipCreate = Omit<ShipSpec, 'id'>
+
 export interface ShipSpec{
     id: number
     ship_name: string
